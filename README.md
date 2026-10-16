@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌸 Jocélia Perfumes
 
 Catálogo web moderno, elegante e responsivo desenvolvido para a revenda independente de fragrâncias, body splashes e loções corporais. O projeto conta com links diretos para atendimento e fechamento de pedidos via WhatsApp e Instagram.
