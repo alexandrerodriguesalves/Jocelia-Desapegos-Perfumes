@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 Jocélia Perfumes
 
 Catálogo web moderno, elegante e responsivo desenvolvido para a revenda independente de fragrâncias, body splashes e loções corporais. O projeto conta com links diretos para atendimento e fechamento de pedidos via WhatsApp e Instagram.
@@ -22,3 +23,7 @@ O design foi cuidadosamente inspirado na estética suave e sofisticada do univer
 ---
 
 Desenvolvido com dedicação por **Alexandre Rodrigues Alves**.
+=======
+# Jocelia-Desapegos-Perfumes
+Catálogo online responsivo para revenda independente de perfumes, desenvolvido com HTML5, Tailwind CSS e integração direta para vendas via WhatsApp e Instagram.
+>>>>>>> 9075b6c9d748fd24e15b128e6b7a4d297e905c20
